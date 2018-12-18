@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "347924332189",
+    "firebase_url": "https://prts91-project.firebaseio.com",
+    "project_id": "prts91-project",
+    "storage_bucket": "prts91-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347924332189:android:f9aed68b3edfaa1a",
+        "android_client_info": {
+          "package_name": "com.example.android.kiran.veoride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347924332189-9g58nqfkio5d0ntjqj38s5cu4efgd12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-n2nVUjJPStSCMKQnB2SXgn4d2oY3rB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347924332189:android:dd9aaf7e887d0de0",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav.simpleblogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347924332189-9g58nqfkio5d0ntjqj38s5cu4efgd12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-n2nVUjJPStSCMKQnB2SXgn4d2oY3rB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347924332189:android:24590a920b042875",
+        "android_client_info": {
+          "package_name": "info.pratyush.watchtower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347924332189-dmtujpa0vgn0b8l98n4nrrcearpc743p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.pratyush.watchtower",
+            "certificate_hash": "dd1755a0b206c0c9058ce4b3fd4b08288486df07"
+          }
+        },
+        {
+          "client_id": "347924332189-9g58nqfkio5d0ntjqj38s5cu4efgd12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-n2nVUjJPStSCMKQnB2SXgn4d2oY3rB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347924332189-9g58nqfkio5d0ntjqj38s5cu4efgd12i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347924332189:android:d469c106098ea00e",
+        "android_client_info": {
+          "package_name": "info.pratyush.watchtower.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347924332189-9g58nqfkio5d0ntjqj38s5cu4efgd12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-n2nVUjJPStSCMKQnB2SXgn4d2oY3rB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
